@@ -50,11 +50,12 @@ The default values for various paramters parsed to the experiment are given in `
 ## Citation
 Please check our paper for technical details and full results.
 ```
-@article{wang2022communication,
+@inproceedings{wang2022communication,
   title={Communication-Efficient Adaptive Federated Learning},
   author={Wang, Yujia and Lin, Lu and Chen, Jinghui},
-  journal={arXiv preprint arXiv:2205.02719},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
   year={2022}
 }
+ 
 ```
 
